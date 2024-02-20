@@ -1,4 +1,4 @@
-# Huggingface diffusor study
+# Huggingface diffusers study
 
 Attention을 denoising Unet에 넣을 때 CLIP Text Encoder를 사용함 (논문에서는 자세한 방법이 언급 되지 않음)
 
